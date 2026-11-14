@@ -1,0 +1,6 @@
+{
+  "name": "Gear & Bastion",
+  "description": "A tactile 3D mechanical puzzle and light tower defense game. Pull pins, snap brass gears, and defend the Bastion Gate across 10 handcrafted levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
